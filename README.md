@@ -1,4 +1,5 @@
-PHP_Sudoku_Solver
+=================
+PHP Sudoku Solver
 =================
 
-PHP Sudoku solver
+This Sudoku solver is written in PHP and uses the recursive backtracking algoritm to solve given Sudoku puzzles.
